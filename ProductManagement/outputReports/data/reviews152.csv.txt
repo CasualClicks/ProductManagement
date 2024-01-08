@@ -1,0 +1,6 @@
+5,Highly recommended
+4,Good choice
+4,Nice one
+5,Can't have enough
+4,Nice one
+1,Very bad taste

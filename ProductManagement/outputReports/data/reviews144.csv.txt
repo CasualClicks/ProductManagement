@@ -1,0 +1,5 @@
+4,Not too bad at all
+5,Excellent choice!
+4,Nice one
+1,Very bad taste
+4,Good choice

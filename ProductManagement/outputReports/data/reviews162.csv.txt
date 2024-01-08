@@ -1,0 +1,4 @@
+1,Very bad taste
+4,Not too bad at all
+2,Not good
+3,Not sure about it

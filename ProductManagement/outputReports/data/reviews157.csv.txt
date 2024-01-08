@@ -1,0 +1,4 @@
+5,Excellent choice!
+3,Not sure about it
+2,Not good
+4,Good choice
